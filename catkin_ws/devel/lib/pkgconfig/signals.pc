@@ -1,0 +1,8 @@
+prefix=/home/stavrow/Signals/catkin_ws/devel
+
+Name: signals
+Description: Description of signals
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/stavrow/Signals/catkin_ws/devel/lib 
+Requires: 
